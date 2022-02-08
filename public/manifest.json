@@ -1,0 +1,23 @@
+{
+  "name": "Template Padrão Next.JS",
+  "short_name": "IWASNEXT",
+  "description": "Descrição do Template Padrão feito em Next.JS",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#000526",
+  "background_color": "#000526",
+  "icons": [
+    {
+      "src": "/images/favicons/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/favicons/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
