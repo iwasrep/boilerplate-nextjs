@@ -4,8 +4,8 @@
   "description": "Descrição do Template Padrão feito em Next.JS",
   "display": "fullscreen",
   "start_url": "/",
-  "theme_color": "#000526",
-  "background_color": "#000526",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
   "icons": [
     {
       "src": "/images/favicons/favicon-192x192.png",
