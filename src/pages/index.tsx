@@ -1,5 +1,5 @@
-import Main from 'components/Main'
+import Manutention from 'components/Manutention'
 
 export default function Home() {
-  return <Main />
+  return <Manutention />
 }

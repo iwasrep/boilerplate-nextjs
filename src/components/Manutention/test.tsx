@@ -1,10 +1,10 @@
 import { render } from '@testing-library/react'
 
-import Main from '.'
+import Manutention from '.'
 
-describe('<Main />', () => {
+describe('<Manutention />', () => {
   it('Should render the heading', () => {
-    render(<Main />)
+    render(<Manutention />)
     /*  expect(screen.getByRole('heading', { name: /Under Construction/i})
     ).toBeInTheDocument() */
     /* expect(container.firstChild).toMatchSnapshot() */

@@ -1,6 +1,6 @@
 import * as S from './styles'
 
-const Main = () => (
+const Manutention = () => (
   <S.Wrapper>
     <S.Logo src="/images/logos/logo.png" alt="Logo " />
     <S.Title>Under Construction</S.Title>
@@ -10,4 +10,4 @@ const Main = () => (
   </S.Wrapper>
 )
 
-export default Main
+export default Manutention
